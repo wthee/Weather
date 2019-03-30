@@ -8,10 +8,10 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@react-native-community/async-storage": "^1.2.2",
     "jest-haste-map": "^24.0.0",
+    "moment": "^2.24.0",
     "react": "16.8.3",
-    "react-native": "0.59.2",
-    "react-native": "latest",
     "react-native": "latest"
   },
   "devDependencies": {
@@ -22,8 +22,8 @@
     "eslint": "^5.15.3",
     "jest": "^24.5.0",
     "metro-react-native-babel-preset": "^0.53.1",
-    "react-test-renderer": "16.8.3",
-    "react-native": "latest"
+    "react-native": "latest",
+    "react-test-renderer": "16.8.3"
   },
   "jest": {
     "preset": "react-native"
